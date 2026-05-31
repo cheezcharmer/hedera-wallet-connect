@@ -1,5 +1,4 @@
 node_modules
-dist
 *.sw[a-z]
 **/.idea
 .DS_Store
